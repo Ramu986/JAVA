@@ -1,0 +1,19 @@
+Important git commands for future use
+
+1.git version
+2.git help
+3.git config
+4.git init
+5.git clone
+6.git add
+7.git status
+8.git rm
+9.git restore
+10.git log
+11.git commit
+12.git pull
+13.git push
+14.git branch
+15.git show
+16.git checkout
+17.git stash
